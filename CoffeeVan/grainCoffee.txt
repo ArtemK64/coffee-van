@@ -1,0 +1,5 @@
+Rose High 200 500 Dry
+Rose Medium 180 450 Dry
+Iris High 250 670 Wet
+Rose Medium 300 890 Wet
+Iris Low 180 340 Dry

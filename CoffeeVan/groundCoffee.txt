@@ -1,0 +1,5 @@
+Rose Medium 300 320 Big
+CoffeeFactory High 120 350 Medium
+CoffeeFactory Medium 300 380 Medium
+Rose Medium 260 320 Big
+Iris Low 280 400 Small

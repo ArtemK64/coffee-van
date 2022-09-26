@@ -1,0 +1,5 @@
+Rose Low 10 15 30
+Iris Low 12 15 30
+CoffeeFactory Low 13 15 30
+Rose Medium 16 50 10
+CoffeeFactory Low 9 15 30
